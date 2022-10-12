@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Tyler and I'm an Android Developer currently living in North Carolina.
+I'm Tyler and I'm a Senior Staff Android Engineer currently living in North Carolina.
 
 - 🔭  I’m working on our Android app at [Extend](https://paywithextend.com)
 - 🌱  I’m learning Kotlin Flow, Jetpack Compose, and more!
